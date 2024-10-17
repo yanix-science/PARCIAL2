@@ -20,6 +20,11 @@ Este proyecto utiliza ANTLR para analizar expresiones matemáticas con números 
    cd PARCIAL2
    ```
 
+## NOTA:
+```bash
+Antes de comenzar a ejecutar comandos, asegurese de estar en la ruta donde se ubica las carpetas P1, P2, P3. Click derecho y Abrir en un terminal, Despues:
+```
+
 2. **Crea y activa un entorno virtual:**
 
     ```bash
