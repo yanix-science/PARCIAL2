@@ -37,6 +37,10 @@ Antes de comenzar a ejecutar comandos, asegurese de estar en la ruta donde se ub
     pip install antlr4-python3-runtime==4.13.1
     ```
 
+## NOTA:
+Cuando ejecutes ** pip install antlr4-python3-runtime==4.13.1 **
+Abres la carpeta y despues:
+
 4. **Ejecuta el script `main.py` con un archivo de entrada:**
 
     ```bash
@@ -64,6 +68,9 @@ Este proyecto tiene como objetivo permitir aplicar operaciones de mapeo y filtra
     ```bash
     pip install antlr4-python3-runtime==4.13.1
     ```
+## NOTA:
+Cuando ejecutes ** pip install antlr4-python3-runtime==4.13.1 **
+Abres la carpeta y despues:
 
 3. **Ejecuta el script `main.py` con un archivo de entrada:**
 
