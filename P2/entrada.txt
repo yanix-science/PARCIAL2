@@ -1,0 +1,2 @@
+map(lambda x: x + 3, [1, 2, 3, 4])
+filter(lambda y: y % 2 == 0, (1, 2, 3, 4, 5))
