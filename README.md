@@ -63,7 +63,7 @@ Este proyecto tiene como objetivo permitir aplicar operaciones de mapeo y filtra
 3. **Ejecuta el script `main.py` con un archivo de entrada:**
 
     ```bash
-    python3 main.py input.txt
+    python3 main.py entrada.txt
     ```
 ## Salida: 
 
