@@ -83,7 +83,10 @@ Abres la carpeta y despues:
 [4, 5, 6, 7]
 [2, 4]
 ```
-
+# Transformada de Fourier:
+PAra Calcular la Transformada de Fourier de expresiones matemáticas. Utilizando **ANTLR** para el análisis léxico y sintáctico, y **Python** como el lenguaje objetivo para la ejecución.
+- Evaluación de expresiones matemáticas (suma, resta, multiplicación, división y potencia).
+- Soporte para la Transformada de Fourier usando la función `fourier()`.
 
 
 1. **Crea y activa un entorno virtual:**
