@@ -84,5 +84,33 @@ Abres la carpeta y despues:
 [2, 4]
 ```
 
-    
 
+
+1. **Crea y activa un entorno virtual:**
+
+    ```bash
+    python3 -m venv .venv
+    source .venv/bin/activate
+    ```
+    
+2. **Instala las dependencias:**
+
+    ```bash
+    pip install antlr4-python3-runtime==4.13.1
+    ```
+## NOTA:
+Cuando ejecutes ** pip install antlr4-python3-runtime==4.13.1 **
+Abres la carpeta y despues:
+
+
+3. **Ejecuta el script `fourier_interpreter.py`:**
+      ```bash
+    python fourier_interpreter.py
+    ```
+
+## Salida: 
+
+```
+Calculando transformada de Fourier de: 16.0
+
+```
